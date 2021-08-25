@@ -28,8 +28,6 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 <h2>Latest Blog Posts:</h2>
 
-## Blog posts:
-
 <!-- BLOG-POST-LIST:START -->
 - [Motorcycle and Moped Accidents in Florida](https://keen-noether-7d2e44.netlify.app/2021/08/09/motorcycle-and-moped-accidents-in-florida/)
 - [Staying Organized in R](https://keen-noether-7d2e44.netlify.app/2021/07/20/staying-organized/)
