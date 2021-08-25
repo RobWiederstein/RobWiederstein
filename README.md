@@ -50,6 +50,7 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
   <img src="./assets/icon/bootstrap.svg" width = "64">
   <img src="./assets/icon/jquery.svg" width = "64">
   <img src="./assets/icon/hugo.svg" width = "64">
+  <img src="./assets/icon/github.svg" width = "64">
 </p>
 
 <h2>Grateful for:</h2>
