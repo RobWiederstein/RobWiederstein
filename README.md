@@ -38,6 +38,10 @@
 - [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
 <!-- BLOG-POST-LIST:END -->
 
+<h2>Competencies:</h2>
+
+<img src="./html5.svg" width="48">
+
 ## License 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
