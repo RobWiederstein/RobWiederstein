@@ -19,7 +19,7 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 <h2>About:</h2>
 
-- I code in `R`.
+- I code in `R`.<a name="sqlalchemy-docs-1">[1]</a>:New in version 1.3: - AssociationProxy no longer stores any state specific to a particular parent class; the state is now stored in per-class AssociationProxyInstance objects.
 - I'm learning `golem`.
 - My latest projects include:
   - U.S. Senator financial transactions
@@ -70,4 +70,6 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 ## Footnotes:
 <sup>[[1]]</sup> Cropped and rescaled from the original.
+  
+<sup>[[1]](#alchemy-docs-1)</sup>
 
