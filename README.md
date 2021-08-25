@@ -4,15 +4,7 @@
 
 ---
 
-# Hi, I'm Rob.
-
-- 🔭 I’m currently working on Indiana early childhood data.
-- 🌱 I’m currently learning `golem`.
-- 👯 I’m looking to collaborate on projects that have high public impact and social value.
-- 📫 How to reach me: @RobWiederstein
-- 😄 Pronouns: he/him.
-
-<h2>Follow me:</h2>
+<h1 align="center">Rob Wiederstein</h1>
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
@@ -25,3 +17,24 @@
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
 </div>
+
+<h2>About:</h2>
+
+- I code in `R`.
+- I'm learning `golem`.
+- My latest projects include:
+  - U.S. Senator financial transactions
+  - Indiana early childhood
+  - Maritime casualties
+  - Florida motorcycle accidents
+
+<h2>Latest Blog Posts:</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
+- [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
+- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
+- [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
+- [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
+<!-- BLOG-POST-LIST:END -->
+
