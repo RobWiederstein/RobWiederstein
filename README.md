@@ -42,10 +42,14 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 <h2>Grateful for:</h2>
 <p float="left">
-  <img src="./assets/hex/rstudio.svg" width = "48">
-  <img src="./assets/hex/tidyverse.svg" width = "48">
-<img src="./assets/hex/bookdown.svg" width = "48">
-  </p>
+  <img src="./assets/hex/RStudio.svg" width = "64">
+  <img src="./assets/hex/shiny.svg" width = "64">
+  <img src="./assets/hex/tidyverse.svg" width = "64">
+  <img src="./assets/hex/bookdown.svg" width = "64">
+  <img src="./assets/hex/pkgdown.svg" width = "64">
+  <img src="./assets/hex/blogdown.svg" width = "64">
+  <img src"./assets/hex/flexdashboard.svg" width = "64"
+</p>
 
 ## License 
 
