@@ -36,11 +36,19 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 - [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
 <!-- BLOG-POST-LIST:END -->
 
+<h2> Proficient in:</h2>
+<p float="left">
+    <img src="./assets/icon/r.svg" width = "64">
+    <img src="./assets/icon/atom.svg" width="64">
+</p>
 <h2>Familiar with:</h2>
 
 <p float="left">
   <img src="./assets/icon/html5.svg" width="64">
-  <img src="./assets/icon/r.svg" width = "64">
+  <img src="./assets/icon/css3.svg" width = "64">
+  <img src="./assets/icon/sass.svg" width="64">
+  <img src="./assets/icon/bootstrap.svg" width = "64">
+  <img src="./assets/icon/jquery.svg" width = "64"
 </p>
 
 <h2>Grateful for:</h2>
