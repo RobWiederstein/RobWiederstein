@@ -61,7 +61,8 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
   <img src="./assets/hex/bookdown.svg" width = "64">
   <img src="./assets/hex/pkgdown.svg" width = "64">
   <img src="./assets/hex/blogdown.svg" width = "64">
-  <img src"./assets/hex/flexdashboard.svg" width = "64"
+  <img src="./assets/hex/flexdashboard.svg" width = "64">
+  <img src="./assets/hex/golem.png" width = "64">
 </p>
 
 ## License:
