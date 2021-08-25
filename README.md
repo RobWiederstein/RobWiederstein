@@ -70,4 +70,4 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 ## Footnotes:
   
-<a name="myfootnote1">1</a>: Cropped and rescaled from the original.
+  <a name="myfootnote1"><sup>1</sup></a> Cropped and rescaled from the original.
