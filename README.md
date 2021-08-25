@@ -42,8 +42,9 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 <h2>Grateful for:</h2>
 <p float="left">
-  <img src="./bookdown.png" width = "48">
-<img src="./bookdown.png" width = "48">
+  <img src="./assets/hex/rstudio.svg" width = "48">
+  <img src="./assets/hex/tidyverse.svg" width = "48">
+<img src="./assets/hex/bookdown.svg" width = "48">
   </p>
 
 ## License 
