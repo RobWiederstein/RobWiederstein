@@ -2,10 +2,9 @@
 --:|
 Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://unsplash.com).<sup>[1](#myfootnote1)</sup>
 
-<h1 align="center">Rob Wiederstein</h1>
-<div  align="center">
 
-  
+<div  align="center">
+  <h1>Rob Wiederstein</h1>
   <a href="https://www.linkedin.com/in/rob-wiederstein-797553138/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
@@ -16,6 +15,8 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
 </div>
+
+<p font-size:"16px">Hello</p>
 
 <h2>About:</h2>
 
