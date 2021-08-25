@@ -28,7 +28,7 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 <h2>Latest Blog Posts:</h2>
 
-# Blog posts:
+## Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
