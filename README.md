@@ -1,3 +1,5 @@
+[![dark lights banner](./dark_lights.jpg)](https://robwiederstein.org)
+
 # Hi, I'm Rob.
 
 - 🔭 I’m currently working on Indiana early childhood data.
