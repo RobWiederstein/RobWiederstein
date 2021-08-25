@@ -36,12 +36,15 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 - [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>Languages:</h2>
+<h2>Familiar with:</h2>
 
 <img src="./html5.svg" width="48">
 
-<h2>R packages:</h2>
+<h2>Grateful for:</h2>
+<p float="left">
+  <img src="./bookdown.png" width = "48">
 <img src="./bookdown.png" width = "48">
+  </p>
 
 ## License 
 
