@@ -38,8 +38,10 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 
 <h2>Familiar with:</h2>
 
-<img src="./html5.svg" width="48">
-<img src="./assets/icon/r.svg" width = "64">
+<p float="left">
+  <img src="./assets/icon/html5.svg" width="64">
+  <img src="./assets/icon/r.svg" width = "64">
+</p>
 
 <h2>Grateful for:</h2>
 <p float="left">
