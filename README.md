@@ -39,6 +39,7 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 <h2>Familiar with:</h2>
 
 <img src="./html5.svg" width="48">
+<img src="./assets/icons/r.svg" width = "64">
 
 <h2>Grateful for:</h2>
 <p float="left">
