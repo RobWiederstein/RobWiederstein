@@ -1,4 +1,8 @@
+---
+
 [![dark lights banner](./dark_lights.jpg)](https://robwiederstein.org)
+
+---
 
 # Hi, I'm Rob.
 
