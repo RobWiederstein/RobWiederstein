@@ -16,8 +16,6 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
   </a>
 </div>
 
-<p font-size:"16px">Hello</p>
-
 <h2>About:</h2>
 
 - I code in `R`.<a name="sqlalchemy-docs-1">[1]</a>:New in version 1.3: - AssociationProxy no longer stores any state specific to a particular parent class; the state is now stored in per-class AssociationProxyInstance objects.
