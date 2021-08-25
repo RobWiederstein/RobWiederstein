@@ -64,11 +64,9 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
   <img src"./assets/hex/flexdashboard.svg" width = "64"
 </p>
 
-## License 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Rob Wiederstein waives all copyright and related or neighboring rights to this repository.
+## License:
+  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Footnotes:
 <sup>[[1]]</sup> Cropped and rescaled from the original.
