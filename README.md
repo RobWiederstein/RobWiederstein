@@ -1,6 +1,6 @@
 [![dark lights banner](./dark_lights.jpg)](https://robwiederstein.org) |
 --:|
-Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://unsplash.com)<sup>1</sup> |
+Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://unsplash.com).<sup>[1](#myfootnote1)</sup>
 
 <h1 align="center">Rob Wiederstein</h1>
 <div  align="center">
@@ -69,7 +69,5 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Footnotes:
-<sup>[[1]]</sup> Cropped and rescaled from the original.
   
-<sup>[[1]](#alchemy-docs-1)</sup>
-
+<a name="myfootnote1">1</a>: Cropped and rescaled from the original.
