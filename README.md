@@ -29,11 +29,11 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Prepend or Pad Character to String](https://keen-noether-7d2e44.netlify.app/2021/08/29/prepend-character-to-string/)
 - [Motorcycle and Moped Accidents in Florida](https://keen-noether-7d2e44.netlify.app/2021/08/09/motorcycle-and-moped-accidents-in-florida/)
 - [Staying Organized in R](https://keen-noether-7d2e44.netlify.app/2021/07/20/staying-organized/)
 - [Footer for Flexdashboard](https://keen-noether-7d2e44.netlify.app/2021/07/05/footer-for-flexdashboard/)
 - [Indiana Birth Outcomes](https://keen-noether-7d2e44.netlify.app/2021/06/25/indiana-birth-outcomes/)
-- [Women Justices - An International Comparison](https://keen-noether-7d2e44.netlify.app/2021/06/22/women-justices/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
