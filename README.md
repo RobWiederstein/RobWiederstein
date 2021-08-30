@@ -53,7 +53,7 @@ Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://
   <img src="./assets/icon/github.svg" width = "64">
 </p>
 
-<h2>Grateful for:</h2>
+<h2>Reliant Upon:</h2>
 <p float="left">
   <img src="./assets/hex/RStudio.svg" width = "64">
   <img src="./assets/hex/shiny.svg" width = "64">
