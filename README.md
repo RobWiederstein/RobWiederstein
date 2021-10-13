@@ -1,6 +1,6 @@
-[![dark lights banner](./dark_lights.jpg)](https://robwiederstein.org) |
+[![chineese lanterns banner](./lanterns.jpg)](https://robwiederstein.org) |
 --:|
-Photo by [Misael Silvera](https://unsplash.com/@mslslv) from [Unsplash](https://unsplash.com).<sup>[1](#myfootnote1)</sup>
+Photo by [Elvir K](https://unsplash.com/@elvr) from [Unsplash](https://unsplash.com).<sup>[1](#myfootnote1)</sup>
 
 
 <div  align="center">
