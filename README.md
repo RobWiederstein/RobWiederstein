@@ -1,6 +1,6 @@
 [![chineese lanterns banner](./nasa_space_telescope.gif)](https://robwiederstein.org) |
 --:|
-Photo by [Elvir K](https://unsplash.com/@elvr) from [Unsplash](https://unsplash.com).<sup>[1](#myfootnote1)</sup>
+Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>
 
 
 <div  align="center">
