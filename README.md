@@ -1,4 +1,4 @@
-[![chineese lanterns banner](./lanterns.jpg)](https://robwiederstein.org) |
+[![chineese lanterns banner](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)](https://robwiederstein.org) |
 --:|
 Photo by [Elvir K](https://unsplash.com/@elvr) from [Unsplash](https://unsplash.com).<sup>[1](#myfootnote1)</sup>
 
