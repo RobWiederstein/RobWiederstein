@@ -54,7 +54,7 @@ Photo by [Umesh Soni](https://www.unsplash.com) on [Unsplash](https://www.unspla
   <img src="./assets/icon/jquery.svg" width = "64">
   <img src="./assets/icon/hugo.svg" width = "64">
   <img src="./assets/icon/github.svg" width = "64">
-  <img src="./assets/hex/docker.png" width = "64">
+  <img src="./assets/icon/docker.svg" width = "64">
 </p>
 
 <h2>Reliant Upon:</h2>
