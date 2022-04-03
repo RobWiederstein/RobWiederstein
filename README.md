@@ -4,7 +4,7 @@ Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jp
 
 [![hands holding candle](./diwali.jpg)](https://robwiederstein.org) |
 --:|
-Photo by [Umesh Soni](https://www.unsplash.com) on [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup>
+Photo by [Umesh Soni](https://www.unsplash.com) on icon [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup>
 
 <div  align="center">
   <h1>Rob Wiederstein</h1>
