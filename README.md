@@ -2,7 +2,7 @@
 --:|
 Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>-->
 
-[![hands holding candle](./diwali.jpg)](https://robwiederstein.org) |
+[![hands holding candle](./assets/img/diwali.jpg)](https://robwiederstein.org) |
 --:|
 Photo by [Umesh Soni](https://www.unsplash.com) on icon [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup>
 
@@ -70,9 +70,9 @@ Photo by [Umesh Soni](https://www.unsplash.com) on icon [Unsplash](https://www.u
 </p>
 
 ## License:
-  
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Footnotes:
-  
+
   <a name="myfootnote1"><sup>1</sup></a> Cropped and rescaled from the original.
