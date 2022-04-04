@@ -32,11 +32,11 @@ Photo by [Daria Valkova](https://www.unsplash.com) on icon [Unsplash](https://ww
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Features Tutorial in R](https://keen-noether-7d2e44.netlify.app/2022/03/28/simple-features-tutorial-in-r-number-2/)
+- [Styling R Code for Better Development](https://keen-noether-7d2e44.netlify.app/2022/02/28/styling-r-code-for-better-development/)
+- [Freddie Mac Mortgage Rates in R](https://keen-noether-7d2e44.netlify.app/2022/01/20/freddie-mac-mortgage-rate-data/)
 - [Retirement Locations Dashboard](https://keen-noether-7d2e44.netlify.app/2021/10/13/retirement-locations-dashboard/)
 - [Prepend or Pad Character to String](https://keen-noether-7d2e44.netlify.app/2021/08/29/prepend-character-to-string/)
-- [Motorcycle and Moped Accidents in Florida](https://keen-noether-7d2e44.netlify.app/2021/08/09/motorcycle-and-moped-accidents-in-florida/)
-- [Staying Organized in R](https://keen-noether-7d2e44.netlify.app/2021/07/20/staying-organized/)
-- [Footer for Flexdashboard](https://keen-noether-7d2e44.netlify.app/2021/07/05/footer-for-flexdashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
