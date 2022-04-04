@@ -4,7 +4,7 @@ Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jp
 
 [![Ukrainian flag](./assets/img/ukraine_flag.jpg)](https://robwiederstein.org) |
 --:|
-Photo by [Daria Valkova](https://www.unsplash.com) on icon [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup> Support Ukraine at [https://supportukrainenow.org](https://supportukrainenow.org).
+Photo by [Daria Valkova](https://www.unsplash.com) on icon [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup> Support Ukraine [here](https://supportukrainenow.org).
 
 <div  align="center">
   <h1>Rob Wiederstein</h1>
