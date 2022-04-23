@@ -33,10 +33,10 @@ Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.uns
 
 <!-- BLOG-POST-LIST:START -->
 - [List Inspection-Part-04](https://keen-noether-7d2e44.netlify.app/2022/04/15/list-inspection-part-04/)
+- [Rectangling-Part-05](https://keen-noether-7d2e44.netlify.app/2022/04/15/rectangling-part-05/)
 - [List into Tibble-Part-03](https://keen-noether-7d2e44.netlify.app/2022/04/13/lists-into-tibbles-part-03/)
 - [List Iteration-Part-02](https://keen-noether-7d2e44.netlify.app/2022/04/12/list-iteration-part-02/)
 - [List Basics-Part-01](https://keen-noether-7d2e44.netlify.app/2022/04/11/list-basics-part-01/)
-- [Indiana School Enrollments 2006 to 2022](https://keen-noether-7d2e44.netlify.app/2022/04/03/indiana-school-enrollments-2006-to-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
