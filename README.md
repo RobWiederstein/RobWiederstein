@@ -32,11 +32,11 @@ Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.uns
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tidy Tuesday Hidden Gems](https://keen-noether-7d2e44.netlify.app/2022/04/27/tidy-tuesday-hidden-gems/)
-- [Rectangling IRS 990s-Part-06](https://keen-noether-7d2e44.netlify.app/2022/04/25/rectangling-irs-990s-part-06/)
-- [List Inspection-Part-04](https://keen-noether-7d2e44.netlify.app/2022/04/15/list-inspection-part-04/)
-- [Rectangling-Part-05](https://keen-noether-7d2e44.netlify.app/2022/04/15/rectangling-part-05/)
-- [List into Tibble-Part-03](https://keen-noether-7d2e44.netlify.app/2022/04/13/lists-into-tibbles-part-03/)
+- [Tidy Tuesday Hidden Gems](https://robwiederstein.org/2022/04/27/tidy-tuesday-hidden-gems/)
+- [Rectangling IRS 990s-Part-06](https://robwiederstein.org/2022/04/25/rectangling-irs-990s-part-06/)
+- [List Inspection-Part-04](https://robwiederstein.org/2022/04/15/list-inspection-part-04/)
+- [Rectangling-Part-05](https://robwiederstein.org/2022/04/15/rectangling-part-05/)
+- [List into Tibble-Part-03](https://robwiederstein.org/2022/04/13/lists-into-tibbles-part-03/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
