@@ -32,11 +32,11 @@ Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.uns
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [A Zotero Tutorial for Beginners](https://robwiederstein.org/2022/08/28/a-zotero-tutorial-for-beginners/)
+- [Choropleth Map of Job Change by County](https://robwiederstein.org/2022/08/27/choropleth-map-of-job-change-by-county/)
 - [Using Color in R Plots](https://robwiederstein.org/2022/07/31/using-color-in-r-plots/)
 - [Laser Incidents on U.S. Aircraft](https://robwiederstein.org/2022/07/27/laser-incidents-on-u-s-airplanes/)
 - [Tidy Tuesday Hidden Gems](https://robwiederstein.org/2022/04/27/tidy-tuesday-hidden-gems/)
-- [Rectangling IRS 990s-Part-06](https://robwiederstein.org/2022/04/25/rectangling-irs-990s-part-06/)
-- [List Inspection-Part-04](https://robwiederstein.org/2022/04/15/list-inspection-part-04/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
