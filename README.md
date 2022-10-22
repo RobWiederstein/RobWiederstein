@@ -32,11 +32,11 @@ Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.uns
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Multilingual Letter Frequency in Literature](https://robwiederstein.org/2022/10/19/multilingual-letter-frequency-in-literature/)
 - [A Zotero and Rmarkdown Workflow](https://robwiederstein.org/2022/09/10/a-zotero-and-rmarkdown-workflow/)
 - [Alexandria Population by Block](https://robwiederstein.org/2022/09/04/alexandria-population-by-block/)
 - [A Zotero Tutorial for Beginners](https://robwiederstein.org/2022/08/28/a-zotero-tutorial-for-beginners/)
 - [Choropleth Map of Job Change by County](https://robwiederstein.org/2022/08/27/choropleth-map-of-job-change-by-county/)
-- [Using Color in R Plots](https://robwiederstein.org/2022/07/31/using-color-in-r-plots/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
