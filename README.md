@@ -1,6 +1,9 @@
-[![NASA telescope](./assets/img/nasa_space_telescope.gif)](https://robwiederstein.org) |
+<!--[![NASA telescope](./assets/img/nasa_space_telescope.gif)](https://robwiederstein.org) |
 --:|
-Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>
+Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>-->
+
+[![DC Cherry trees](./assets/img/dc_cherry_trees.jpg)](https://robwiederstein.org) | --: |
+Picture from Unsplash <sup>[1](#myfootnote1)</sup>
 
 <div  align="center">
   <h1>Rob Wiederstein</h1>
