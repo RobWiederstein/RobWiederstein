@@ -1,10 +1,10 @@
 <!--[![chineese lanterns banner](./nasa_space_telescope.gif)](https://robwiederstein.org) |
---:|
-Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>-->
+--:|-->
+Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>
 
-[![Ukrainian flag](./assets/img/ukraine_flag.jpg)](https://robwiederstein.org) |
+<!--[![Ukrainian flag](./assets/img/ukraine_flag.jpg)](https://robwiederstein.org) |
 --:|
-Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup> Support Ukraine [here](https://supportukrainenow.org).
+Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup> Support Ukraine [here](https://supportukrainenow.org).-->
 
 <div  align="center">
   <h1>Rob Wiederstein</h1>
