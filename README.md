@@ -22,8 +22,10 @@ Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.uns
 <h2>About:</h2>
 
 - I code in `R`.
-- I'm learning `golem`.
+- I'm learning `quarto` and `fable`.
 - My latest projects include:
+  - U.S. Indian Treaties
+  - Survey data for U.S. Public Libraries
   - U.S. Senator financial transactions
   - Indiana early childhood
   - Maritime casualties
