@@ -4,7 +4,7 @@ Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jp
 
 [![DC Cherry trees](./assets/img/dc_cherry_trees.jpg)](https://robwiederstein.org) | 
 --: |
-Picture from Unsplash. <sup>[1](#myfootnote1)</sup>
+Picture by Andy He from [Unsplash](https://unsplash.com/photos/PuJc2Sodi94). <sup>[1](#myfootnote1)</sup>
 
 <div  align="center">
   <h1>Rob Wiederstein</h1>
