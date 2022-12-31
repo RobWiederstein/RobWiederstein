@@ -62,6 +62,7 @@ Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.uns
   <img src="./assets/hex/RStudio.svg" width = "64">
   <img src="./assets/hex/shiny.svg" width = "64">
   <img src="./assets/hex/tidyverse.svg" width = "64">
+  <img src="./assets/hex/tidymodels.png" width = "64">
   <img src="./assets/hex/bookdown.svg" width = "64">
   <img src="./assets/hex/pkgdown.svg" width = "64">
   <img src="./assets/hex/blogdown.svg" width = "64">
