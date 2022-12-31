@@ -2,10 +2,6 @@
 --:|
 Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>
 
-<!--[![Ukrainian flag](./assets/img/ukraine_flag.jpg)](https://robwiederstein.org) |
---:|
-Photo by [Daria Valkova](https://www.unsplash.com) on [Unsplash](https://www.unsplash.com).<sup>[1](#myfootnote1)</sup> Support Ukraine [here](https://supportukrainenow.org).-->
-
 <div  align="center">
   <h1>Rob Wiederstein</h1>
   <a href="https://www.linkedin.com/in/rob-wiederstein-797553138/" target="_blank">
