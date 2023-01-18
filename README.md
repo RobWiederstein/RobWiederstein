@@ -34,11 +34,11 @@ Picture by Andy He from [Unsplash](https://unsplash.com/photos/PuJc2Sodi94). <su
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Energy Usage Exploratory Data Analysis](https://robwiederstein.org/2023/01/11/building-energy-usage-exploratory-data-analysis/)
 - [Package Management in R](https://robwiederstein.org/2022/12/08/package-management-in-r/)
 - [Embedding a Trelliscope Widget in GitHub Pages](https://robwiederstein.org/2022/10/22/embedding-a-trelliscope-widget-in-github-pages/)
 - [Great Hack for Documenting R Package Data](https://robwiederstein.org/2022/10/21/great-hack-for-documenting-r-package-data/)
 - [Multilingual Letter Frequency in Literature](https://robwiederstein.org/2022/10/19/multilingual-letter-frequency-in-literature/)
-- [A Zotero and Rmarkdown Workflow](https://robwiederstein.org/2022/09/10/a-zotero-and-rmarkdown-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
