@@ -2,9 +2,9 @@
 --:|
 Video by [NASA's Spitzer Space Telescope: Unveiling the Universe](https://www.jpl.nasa.gov/videos/nasas-spitzer-space-telescope-unveiling-the-universe).<sup>[1](#myfootnote1)</sup>-->
 
-[![DC Cherry trees](./assets/img/dc_cherry_trees.jpg)](https://robwiederstein.org) | 
+[![Beach](./assets/img/beach.jpg)](https://robwiederstein.org) | 
 --: |
-Picture by Andy He from [Unsplash](https://unsplash.com/photos/PuJc2Sodi94). <sup>[1](#myfootnote1)</sup>
+Beach <sup>[1](#myfootnote1)</sup>
 
 <div  align="center">
   <h1>Rob Wiederstein</h1>
