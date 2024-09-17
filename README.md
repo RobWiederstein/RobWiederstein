@@ -34,11 +34,11 @@ Beach <sup>[1](#myfootnote1)</sup>
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Color Palette Selection from Historic Maps](https://robwiederstein.org/2024/09/16/color-palette-selection-from-historic-maps/)
 - [Predicting Building Energy Usage](https://robwiederstein.org/2023/01/18/predicting-building-energy-usage/)
 - [Building Energy Usage Exploratory Data Analysis](https://robwiederstein.org/2023/01/11/building-energy-usage-exploratory-data-analysis/)
 - [Package Management in R](https://robwiederstein.org/2022/12/08/package-management-in-r/)
 - [Embedding a Trelliscope Widget in GitHub Pages](https://robwiederstein.org/2022/10/22/embedding-a-trelliscope-widget-in-github-pages/)
-- [Great Hack for Documenting R Package Data](https://robwiederstein.org/2022/10/21/great-hack-for-documenting-r-package-data/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
