@@ -34,11 +34,11 @@ Beach <sup>[1](#myfootnote1)</sup>
 <h2>Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Map of Central America](https://robwiederstein.org/2024/12/05/map-of-central-america/)
 - [ggplot2 Map of Amelia Earhart&#39;s Last Flight](https://robwiederstein.org/2024/11/06/ggplot2-map-of-amelia-earhart-s-last-flight/)
 - [Monthly Percentage Change in Production with Dplyr](https://robwiederstein.org/2024/10/08/monthly-percentage-change-in-prod/)
 - [Forecasting U.S. High School Football Participation](https://robwiederstein.org/2024/10/05/forecasting-u-s-high-school-football-participation/)
 - [U.S. High School Football Participation Rates](https://robwiederstein.org/2024/09/22/u-s-high-school-football-participation-rates/)
-- [Color Palette Selection from Historic Maps](https://robwiederstein.org/2024/09/16/color-palette-selection-from-historic-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Proficient in:</h2>
