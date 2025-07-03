@@ -45,6 +45,7 @@ Beach <sup>[1](#myfootnote1)</sup>
 <p float="left">
     <img src="./assets/icon/r.svg" width = "64">
     <img src="./assets/icon/atom.svg" width="64">
+    <img src="./assets/icon/proxmox.svg" width="64">
 </p>
 <h2>Familiar with:</h2>
 
