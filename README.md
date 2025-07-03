@@ -43,7 +43,8 @@ Beach <sup>[1](#myfootnote1)</sup>
 
 <h2> Proficient in:</h2>
 <p float="left">
-    <img src="./assets/icon/r.svg" width = "64">
+    <img src="./assets/icon/r.svg" width ="64">
+    <img src="./assets/icon/ubuntu.svg" width="64">
     <img src="./assets/icon/vscode.svg" width="64">
     <img src="./assets/hex/proxmox-.svg" width="64">
 </p>
